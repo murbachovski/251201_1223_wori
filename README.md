@@ -1,5 +1,5 @@
 # WTDC(Woori_Talent_Development_Center) 
-250901 ~ 250912
+251201 ~ 251223
 
 ### 강의 주제
 ```
