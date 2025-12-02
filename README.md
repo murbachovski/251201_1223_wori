@@ -2,6 +2,7 @@
 251201 ~ 251223 우리인재개발원 강의 자료
 
 # https://its.go.kr/
+APIKEY
 ```
 db5c00dc1fce45c49049bff225a0fea6
 ```
