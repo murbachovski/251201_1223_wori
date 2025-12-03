@@ -13,6 +13,6 @@ url_cctv = f"https://openapi.its.go.kr:9443/cctvInfo?apiKey={key}&type={Type}&cc
 ```
 
 # 수업 관련 링크 모음
-[LabelImg] (https://github.com/HumanSignal/labelImg)<br>
-[Roboflow] (https://roboflow.com/)<br>
-[pixels] (https://roboflow.com/)<br>
+[LabelImg](https://github.com/HumanSignal/labelImg)<br>
+[Roboflow](https://roboflow.com/)<br>
+[pixels](https://roboflow.com/)<br>
