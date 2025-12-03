@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # 1. 모델 로드
-model = YOLO("last.pt")
+model = YOLO("yolo11n.pt")
 
 # 2. 모델 훈련
 model.train(
